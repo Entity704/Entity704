@@ -9,10 +9,11 @@
 - 如果不遵守以上规定，您可能会被突破心理防线，让您丧失心智。\
   ⚠️ __请务必遵守规则！！！__
 
+<div align="center"> <img src="https://metrics.lecoq.io/Entity704?template=classic&config.timezone=Asia%2FShanghai"> </div>
+
 #### Tags:
 ![Static Badge](https://img.shields.io/badge/危险-red) ![Static Badge](https://img.shields.io/badge/击穿底线-red) ![Static Badge](https://img.shields.io/badge/心理攻击-red) \
 ![Static Badge](https://img.shields.io/badge/缺乏常识-yellow) ![Static Badge](https://img.shields.io/badge/防备心-yellow) ![Static Badge](https://img.shields.io/badge/偏主动-yellow) ![Static Badge](https://img.shields.io/badge/矛盾-yellow) \
 ![Static Badge](https://img.shields.io/badge/无生命威胁-green) ![Static Badge](https://img.shields.io/badge/话少-green) ![Static Badge](https://img.shields.io/badge/较听劝-green) ![Static Badge](https://img.shields.io/badge/弱-green) 
 ![Static Badge](https://img.shields.io/badge/呆傻-green) ![Static Badge](https://img.shields.io/badge/窝囊-green) \
-<img src="https://visitor-badge.glitch.me/badge?page_id=sun0225SUN" />
 ![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Entity704&hide_title=true)
