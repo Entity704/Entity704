@@ -14,5 +14,4 @@
 ![Static Badge](https://img.shields.io/badge/缺乏常识-yellow) ![Static Badge](https://img.shields.io/badge/防备心-yellow) ![Static Badge](https://img.shields.io/badge/偏主动-yellow) ![Static Badge](https://img.shields.io/badge/矛盾-yellow) \
 ![Static Badge](https://img.shields.io/badge/无生命威胁-green) ![Static Badge](https://img.shields.io/badge/话少-green) ![Static Badge](https://img.shields.io/badge/较听劝-green) ![Static Badge](https://img.shields.io/badge/弱-green) 
 ![Static Badge](https://img.shields.io/badge/呆傻-green) ![Static Badge](https://img.shields.io/badge/窝囊-green) \
-![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Entity704) \
-$\sqrt(1311350016506132470436100)$
+![Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=EntityMC&hide_title=true)
