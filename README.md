@@ -1,4 +1,4 @@
-<img src="./Entity_fire.png" alt="name" />
+<img src="/image/Entity_fire.png" alt="name" />
 
 # 就喜欢整尬的哟~
 
