@@ -1,4 +1,4 @@
-<img src="https://github.com/Entity704/Entity704/blob/main/image/Entity_fire.svg" alt="name" />
+<img src="https://github.com/Entity704/Entity704/blob/main/image/Entity_fire.png" alt="name" />
 
 # 就喜欢整尬的哟~
 
