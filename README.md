@@ -1,6 +1,6 @@
-![Name](https://github.com/Entity704/Entity704/image/Entity_fire.svg)
+![Name](https://github.com/Entity704/Entity704/bolb/main/image/Entity_fire.svg)
 
-# 就喜欢整尬ame的哟~
+# 就喜欢整尬的哟~
 
 ### 如果您想跟此人沟通，您必须做好以下准备：
 - 需要准备救心丹。
