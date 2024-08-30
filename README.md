@@ -1,6 +1,6 @@
 <img src="/image/Entity_fire.png" alt="name" />
 
-# 就喜欢整尬的哟~
+# Hi~ Here is Entity!
 
 ### 如果您想跟此人沟通，您必须做好以下准备：
 - 需要准备救心丹。
@@ -10,8 +10,6 @@
 - 如果您止不住的想跟他交谈，请立即使用言语切断让他跟你沟通的欲望。
 - 如果不遵守以上规定，您可能会被突破心理防线，让您丧失心智。\
   ⚠️ __请务必遵守规则！！！__
-
-![Metrics](https://metrics.lecoq.io/Entity704?template=classic&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&config.timezone=Asia%2FShanghai)
 
 #### Tags:
 ![Static Badge](https://img.shields.io/badge/危险-red) ![Static Badge](https://img.shields.io/badge/击穿底线-red) ![Static Badge](https://img.shields.io/badge/心理攻击-red) \
