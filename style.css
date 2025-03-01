@@ -1,0 +1,125 @@
+body {
+    display: flex;
+    background-color: #efefef;
+    width: auto;
+    height: auto;
+}
+
+.container {
+    display: grid;
+    grid-template-rows: 0fr;
+    animation: open 2s forwards;
+    overflow: hidden;
+}
+
+.main {
+    min-height: 0;
+    overflow: hidden;
+    margin: 0 auto;
+    background-color: white;
+    width: 70%;
+    height: auto;
+    padding: 2%;
+    line-height: 20%;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 20px;
+}
+.main hr {
+    stroke-width: 2px;
+}
+.main a {
+    text-decoration: none;
+}
+
+.title {
+    padding-left: 20%;
+    line-height: 10%;
+}
+.title p {
+    color: darkgrey;
+    padding-left: 2%;
+    font-size: smaller;
+}
+
+.main_body {
+    font-size: large;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+.main_body p {
+    line-height: 120%;
+    text-indent: 2em;
+}
+
+table {
+    line-height: 100%;
+    font-size: smaller;
+    margin: 0 auto;
+    border: 1px solid black;
+    text-align: center;
+    border-collapse: collapse;
+}
+tr, td {
+    border: 1px solid black;
+    padding: 6px;
+}
+tr {
+    background-color: #eee;
+}
+tr:nth-child(odd) {
+    background-color: #fff;
+}
+tr:hover {
+    background-color: #ddd;
+}
+
+.hover {
+    background-color: whitesmoke;
+    border-radius: 10px;
+    padding: 10px;
+    height: 40px;
+    width: auto;
+    min-height: 40px;
+    grid-template-rows: 0fr;
+    overflow: hidden;
+}
+.hover h3 {
+    text-align: center;
+    padding-bottom: 10px;
+}
+.hover p {
+    line-height: 100%;
+    font-size: smaller;
+}
+.hover:hover {
+    height: auto;
+}
+
+.hg {
+    display: grid;
+    grid-template-rows: 0fr;
+    transition: 0.5s;
+}
+.hg:hover {
+    grid-template-rows: 1fr;
+}
+
+::selection {
+    background-color: #00000000;
+    text-shadow: #202020 0 0 2px;
+    color: gray;
+}
+
+::-webkit-scrollbar {
+    width: 0;
+}
+
+@keyframes open {
+    from {
+        grid-template-rows: 0fr;
+    }
+
+    to {
+        grid-template-rows: 1fr;
+    }
+}
